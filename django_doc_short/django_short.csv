@@ -1,0 +1,73 @@
+links,name
+https://docs.djangoproject.com/zh-hans/2.0/faq/,FAQ
+https://docs.djangoproject.com/zh-hans/2.0/genindex/,详细内容目录
+https://docs.djangoproject.com/zh-hans/2.0/internals/mailing-lists/#django-users-mailing-list,
+https://docs.djangoproject.com/zh-hans/2.0/None,
+https://docs.djangoproject.com/zh-hans/2.0/None,
+https://docs.djangoproject.com/zh-hans/2.0/intro/,教程
+https://docs.djangoproject.com/zh-hans/2.0/topics/,专题指南
+https://docs.djangoproject.com/zh-hans/2.0/ref/,参考指南
+https://docs.djangoproject.com/zh-hans/2.0/howto/,How-to 指南
+https://docs.djangoproject.com/zh-hans/2.0/intro/overview/,概要
+https://docs.djangoproject.com/zh-hans/2.0/intro/tutorial01/,第1节: 请求和响应
+https://docs.djangoproject.com/zh-hans/2.0/intro/reusable-apps/,如何编写可复用的应用
+https://docs.djangoproject.com/zh-hans/2.0/topics/db/models/,模型介绍
+https://docs.djangoproject.com/zh-hans/2.0/topics/db/queries/,执行查询
+https://docs.djangoproject.com/zh-hans/2.0/ref/models/instances/,实例方法
+https://docs.djangoproject.com/zh-hans/2.0/topics/migrations/,迁移概述
+https://docs.djangoproject.com/zh-hans/2.0/topics/db/managers/,管理员
+https://docs.djangoproject.com/zh-hans/2.0/ref/databases/,支持的数据库
+https://docs.djangoproject.com/zh-hans/2.0/topics/http/urls/,URL配置
+https://docs.djangoproject.com/zh-hans/2.0/ref/views/,内置视图
+https://docs.djangoproject.com/zh-hans/2.0/topics/http/file-uploads/,概览
+https://docs.djangoproject.com/zh-hans/2.0/topics/class-based-views/,概览
+https://docs.djangoproject.com/zh-hans/2.0/howto/outputting-csv/,生成 CSV
+https://docs.djangoproject.com/zh-hans/2.0/topics/http/middleware/,概览
+https://docs.djangoproject.com/zh-hans/2.0/topics/templates/,概述
+https://docs.djangoproject.com/zh-hans/2.0/ref/templates/language/,语法概述
+https://docs.djangoproject.com/zh-hans/2.0/ref/templates/api/,模板 API
+https://docs.djangoproject.com/zh-hans/2.0/topics/forms/,概览
+https://docs.djangoproject.com/zh-hans/2.0/topics/forms/modelforms/,针对模型的表单
+https://docs.djangoproject.com/zh-hans/2.0/topics/settings/,概览
+https://docs.djangoproject.com/zh-hans/2.0/ref/applications/,概览
+https://docs.djangoproject.com/zh-hans/2.0/ref/exceptions/,概览
+https://docs.djangoproject.com/zh-hans/2.0/ref/django-admin/,概览
+https://docs.djangoproject.com/zh-hans/2.0/topics/testing/,介绍
+https://docs.djangoproject.com/zh-hans/2.0/howto/deployment/,概览
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/admin/,管理站点
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/admin/actions/,管理动作
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/admin/admindocs/,管理文档生成器
+https://docs.djangoproject.com/zh-hans/2.0/topics/security/,安全概览
+https://docs.djangoproject.com/zh-hans/2.0/releases/security/,在 Django 中披露的安全问题
+https://docs.djangoproject.com/zh-hans/2.0/ref/clickjacking/,点击劫持保护
+https://docs.djangoproject.com/zh-hans/2.0/ref/csrf/,跨站请求伪造 CSRF 保护
+https://docs.djangoproject.com/zh-hans/2.0/topics/signing/,登录加密
+https://docs.djangoproject.com/zh-hans/2.0/ref/middleware/#security-middleware,
+https://docs.djangoproject.com/zh-hans/2.0/topics/i18n/,概览
+https://docs.djangoproject.com/zh-hans/2.0/topics/i18n/timezones/,时区
+https://docs.djangoproject.com/zh-hans/2.0/topics/performance/,性能和优化概述
+https://docs.djangoproject.com/zh-hans/2.0/topics/auth/,概述
+https://docs.djangoproject.com/zh-hans/2.0/topics/cache/,缓存
+https://docs.djangoproject.com/zh-hans/2.0/topics/logging/,日志
+https://docs.djangoproject.com/zh-hans/2.0/topics/email/,发送邮件
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/syndication/,资讯聚合 (RSS/Atom)
+https://docs.djangoproject.com/zh-hans/2.0/topics/pagination/,分页
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/messages/,消息框架
+https://docs.djangoproject.com/zh-hans/2.0/topics/serialization/,序列化
+https://docs.djangoproject.com/zh-hans/2.0/topics/http/sessions/,会话
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/sitemaps/,站点地图
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/staticfiles/,静态文件管理
+https://docs.djangoproject.com/zh-hans/2.0/ref/validators/,数据验证
+https://docs.djangoproject.com/zh-hans/2.0/topics/conditional-view-processing/,有条件的内容处理
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/contenttypes/,内容类型和通用关系
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/flatpages/,简单页面
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/redirects/,重定向
+https://docs.djangoproject.com/zh-hans/2.0/topics/signals/,信号
+https://docs.djangoproject.com/zh-hans/2.0/topics/checks/,系统检查框架
+https://docs.djangoproject.com/zh-hans/2.0/ref/contrib/sites/,站点框架
+https://docs.djangoproject.com/zh-hans/2.0/ref/unicode/,Django 中的 Unicode
+https://docs.djangoproject.com/zh-hans/2.0/internals/contributing/,如何参与其中
+https://docs.djangoproject.com/zh-hans/2.0/misc/design-philosophies/,概览
+https://docs.djangoproject.com/zh-hans/2.0/internals/contributing/writing-documentation/,关于本文档
+https://docs.djangoproject.com/zh-hans/2.0/misc/distributions/,概览
+https://docs.djangoproject.com/zh-hans/2.0/misc/api-stability/,API 稳定性
